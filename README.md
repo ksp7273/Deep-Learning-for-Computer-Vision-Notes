@@ -1,6 +1,3 @@
-## Surya Prakash 
-## Departments of Computer Science and Engineering (CSE) 
-## Lendi Institute of Engineering and Technology
 
 ---
 
